@@ -41,6 +41,7 @@ end
 # - Edit "service_account_file" to match the name of your key — 
 #
 service_account_file = "gsc-index-400005-b3da9e3fd4fc.json"
+service_account_file = "secret-sphinx-401609-cef873a1350c.json"
 #
 # - Invite your service account into your Google Search Console
 # - Search Console > "Settings" > "Users and Permissions" > "Add User" and enter the email of your service account
